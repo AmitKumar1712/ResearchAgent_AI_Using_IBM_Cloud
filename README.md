@@ -1,6 +1,6 @@
 # Watson ML Research Agent 
 
-PPTX(https://docs.google.com/presentation/d/e/2PACX-1vQYSbk_GfhNZ3if8G276yYq_WyA1fR0oLUnEY3_zuCASMbUYP2LfaoBJCEdyDu7v9IkoUCIjW2m2lg_/pub?start=true&loop=true&delayms=3000)
+[PPTX Doc File](https://docs.google.com/presentation/d/e/2PACX-1vQYSbk_GfhNZ3if8G276yYq_WyA1fR0oLUnEY3_zuCASMbUYP2LfaoBJCEdyDu7v9IkoUCIjW2m2lg_/pub?start=true&loop=true&delayms=3000)
 
 A comprehensive research agent powered by IBM Watson ML with multiple backend implementations and a modern React frontend.
 
@@ -209,7 +209,7 @@ Edit `config.env` to configure:
 4. Test with all backends
 5. Submit a pull request
 
-For more information, visit the GitHub repository.
+For more information, visit the [GitHub repository](https://github.com/AmitKumar1712/ResearchAgent_AI_Using_IBM_Cloud.git).
 
 ## Support
 
