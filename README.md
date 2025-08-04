@@ -209,6 +209,8 @@ Edit `config.env` to configure:
 4. Test with all backends
 5. Submit a pull request
 
+For more information, visit the GitHub repository.
+
 ## Support
 
 For issues and questions:
