@@ -1,6 +1,6 @@
 # Watson ML Research Agent 
 
-[PPTX Doc File](https://docs.google.com/presentation/d/e/2PACX-1vQYSbk_GfhNZ3if8G276yYq_WyA1fR0oLUnEY3_zuCASMbUYP2LfaoBJCEdyDu7v9IkoUCIjW2m2lg_/pub?start=true&loop=true&delayms=3000)
+## [PPTX Doc File](https://docs.google.com/presentation/d/e/2PACX-1vQYSbk_GfhNZ3if8G276yYq_WyA1fR0oLUnEY3_zuCASMbUYP2LfaoBJCEdyDu7v9IkoUCIjW2m2lg_/pub?start=true&loop=true&delayms=3000)
 
 A comprehensive research agent powered by IBM Watson ML with multiple backend implementations and a modern React frontend.
 
@@ -38,36 +38,38 @@ research-agent/
 │   ├── run-python.ps1        # Run Python backend
 │   ├── run-node.ps1          # Run Node.js backend
 │   └── run-frontend.ps1      # Run React frontend
+|__ Jupyter Notebook.ipynb
 └── README.md
+
 ```
 ## SCREENSHOTS & Demo
 
-IBM Portal Overview
+## IBM Portal Overview
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1683ac39-3eb7-48e7-a9c1-52c4fb53fed5" />
 
-Setup Interface
+## Setup Interface
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd91f3c0-6f0e-4650-babf-42c03cc38d68" />
 
-Chat Mode
+## Chat Mode
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/faf5df95-c457-4a71-bff6-f7df9a86b366" />
 
-Tools Selection
+## Tools Selection
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/79c4972a-3d69-4693-9343-337707609781" />
 
-Assets Dashboard
+## Assets Dashboard
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b79d4e08-467f-4058-bff1-03d0d2469163" />
 
-Deployment Testing
+## Deployment Testing
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7b23c27d-9311-49e9-9284-939cc30c3114" />
 
-Dashboard Interface
+## Dashboard Interface
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/097a2e91-583c-4437-bfe9-3bf7dc2ef8b2" />
 
 
-Multimode options
+## Multimode options
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a088641e-5d60-4cda-a264-669f8b44a4d5" />
 
-Multi Backend
+## Multi Backend
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7fcd80ce-b399-4444-8536-1eb7ef188f74" />
 
 
